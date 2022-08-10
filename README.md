@@ -10,3 +10,5 @@ This Whats-for-Dinner app was built by Scott Gaines from a previously-set comp p
 * main.js
 * an assets folder containing all images used
 
+![Preview Image](assets/whats-for-dinner-screenshot.png)
+![Preview Image](assets/whats-for-dinner-usability.png)
