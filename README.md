@@ -1,4 +1,4 @@
-# [What's For Dinner[(https://scottdgaines.github.io/whats-for-dinner/)
+# [What's For Dinner](https://scottdgaines.github.io/whats-for-dinner/)
 Mod 1, Challenge 1 (Solo)
 
 ## Overview
