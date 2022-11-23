@@ -1,5 +1,5 @@
 # What's For Dinner
-Mod 1, Challenge 1 (Solo)
+Mod 1, Challenge 1 (Solo)<br/>
 [Deployed Link](https://scottdgaines.github.io/whats-for-dinner/)
 
 ## Overview
