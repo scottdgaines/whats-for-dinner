@@ -1,5 +1,6 @@
-# [What's For Dinner](https://scottdgaines.github.io/whats-for-dinner/)
+# What's For Dinner
 Mod 1, Challenge 1 (Solo)
+[Deployed Link](https://scottdgaines.github.io/whats-for-dinner/)
 
 ## Overview
 What's for dinner? That's the ultimate question. This Whats-For-Dinner app can help you decide with the click of a button!
