@@ -1,5 +1,4 @@
 # What's For Dinner
-Mod 1, Challenge 1 (Solo)<br/>
 [Deployed Link](https://scottdgaines.github.io/whats-for-dinner/) | [Project Spec](https://frontend.turing.edu/projects/module-1/dinner.html)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
