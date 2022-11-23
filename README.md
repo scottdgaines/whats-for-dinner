@@ -10,8 +10,7 @@ Are you consistently bugged by the question "What's for dinner?" Stress no more,
 
 Users may select either the type of individual dish they wish to have suggested, or to view the entire preset meal. Simply select the type, and click "Let's Cook" to view your menu for the night.
 
-![Preview Image](assets/whats-for-dinner-screenshot.png)
-![Preview Image](assets/whats-for-dinner-usability.png)
+![2022-11-23 11 08 58](https://user-images.githubusercontent.com/103966650/203618628-f429f71a-ba25-4359-8abb-7f3d54e160e3.gif)
 
 ## Project Context
 I am currently a student at the Turing School for Software and Design studying front-end engineering. This project was assigned and completed during the first quarter of the program, meaning I have been coding for approximately four weeks. The main goal of this project was to closely replicate the provided comp design:
